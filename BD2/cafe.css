@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1d3d4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #66003e;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #66003e;
+}
+
+h3 {
+    margin-bottom: 20px;
+    color: #66003e;
+}
+
+h4 {
+    margin-bottom: 25px;
+    color: #66003e;
+}
+
+.slogan {
+    text-align: center;
+    font-style: italic;
+    color: #66003e;
+    margin-bottom: 40px;
+}
+
+.problem-solution {
+    margin-bottom: 40px;
+}
+
+.problem-solution h2 {
+    color: #66003e;
+    margin-bottom: 10px;
+}
+
+.problem-solution p {
+    color: #666;
+}
+
+img {
+    display: block; /* Permet de centrer l'image en tant que bloc */
+    margin: 0 auto; /* Réglez les marges horizontales à "auto" pour centrer l'image */
+}
+
+a {
+    color: #66003e; /* Changer la couleur du lien en bleu */
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.image img {
+    max-width: 100%; /* Redimensionne les images pour qu'elles s'ajustent à la taille de leur conteneur */
+    height: auto; /* Garantit que les images conservent leur ratio hauteur/largeur */
+}
