@@ -82,4 +82,5 @@ Documentation technique des machines à café utilisées sur le campus.
 - Uriel LOUIS
 - Maïmouna TALL
 - Chloé MAKOUNDOU
-Projet réalisé dans le cadre du Projet CMS (L3 Informatique) – Université Paris-Saclay
+- Projet réalisé dans le cadre du Projet CMS (L3 Informatique) – Université Paris-Saclay
+© Copyright 2024
