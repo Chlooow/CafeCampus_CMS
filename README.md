@@ -74,6 +74,13 @@ public class CoffeeMachine {
 }
 ```
 
+## Démo Video
+
+
+https://github.com/user-attachments/assets/bd640b2f-0076-4140-b7a6-47b13c3739d2
+
+
+
 ## Sources
 Données collectées auprès des utilisateurs du campus.
 Documentation technique des machines à café utilisées sur le campus.
