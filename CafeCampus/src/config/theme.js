@@ -14,7 +14,7 @@ export const COLORS = {
   // Statut
   disponible: '#4CAF50',
   enReparation: '#FF9800',
-  horsService: '#ffc2d4',
+  horsService: '#ff0000',
   horsServiceText: '#c0004e',
 };
 
